@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: "Poppins", sans-serif; */
+    /* font-family: "Roboto", sans-serif; */
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.parent {
+    width: 88%;
+    margin: auto;
+    margin-top: 8rem;
+}
+
+.heading {
+    font-family: "Roboto", sans-serif;
+    font-size: 4rem;
+    font-weight: 500;
+}
+
+.info {
+    color: #707070;
+    font-family: "Roboto", sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    margin-top: 1rem;
+    /* width: 85%; */
+}
+
+.parent_child {
+    justify-content: space-between;
+}
+
+.box_1 {
+    width: 80%;
+}
+
+.box_2 {
+    width: 12%;
+    display: flex;
+    align-items: center;
+}
+
+.box_2 button {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    color: #707070;
+    font-size: 1.5rem;
+}
+
+.box_2 button img {
+    width: 45%;
+    margin-left: .3rem;
+}
+
+/* container */
+
+.container {
+    display: flex;
+    margin-top: 5rem;
+    background: #EFEFFE 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 15px;
+}
+
+.c2 {
+    width: 40%;
+    padding-top: 6rem;
+}
+
+.info_2 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 1.8rem;
+    margin-top: 1.5rem;
+}
+
+.info_3 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 1.8rem;
+    margin-top: 1.5rem;
+}
+
+.info_4 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+.info_4 span {
+    color: #333697;
+}

@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: "Poppins", sans-serif; */
+    /* font-family: "Roboto", sans-serif; */
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.container {
+    border: 1px solid blue;
+    background-color: #333697;
+    width: 60vw;
+    margin: auto;
+    margin-top: 6.3rem;
+    padding: 2rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    border-radius: 2rem;
+    display: flex;
+}
+
+.heading {
+    font-family: "Poppins", sans-serif;
+    font-size: 3rem;
+    color: #FFFFFF;
+}
+
+.info {
+    font-family: "Open Sans", sans-serif;
+    color: #FFFFFF;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.c1 {
+    width: 53%;
+}
+
+.c2 {
+    display: flex;
+    align-items: center;
+    width: 45%;
+    margin-top: 1rem;
+}
+
+.footer {
+    background-color: #EBEBF8;
+    border: 1px solid #FFFFFF;
+}
+
+.f1 {
+    width: 85%;
+    margin: auto;
+    margin-top: 4rem;
+}
+
+.box_1 {
+    display: flex;
+    align-items: center;
+    color: #707070;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 2.5rem;
+}
+
+.flex_1 {
+    width: 80%;
+    margin-top: 2rem;
+    justify-content: space-between;
+}
+
+.flex_1 img {
+    width: 16%;
+}
+
+.box_2 {
+    margin-top: 2rem;
+    margin-left: 5rem;
+}
+
+.box_3 {
+    margin-top: 2rem;
+    margin-left: 5rem;
+}
+
+.box_4 {
+    margin-top: 2rem;
+    margin-left: 5rem;
+}
+
+.bh {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.bt {
+    color: #8A8A8A;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 1.6rem;
+    margin-top: 1rem;
+}
+
+.last {
+    display: flex;
+    justify-content: space-between;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: #677294;
+    width: 85%;
+    margin: auto;
+    margin-top: 5rem;
+    font-size: 1.5rem;
+    padding-bottom: 3rem;
+}
