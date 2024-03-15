@@ -8,7 +8,7 @@ You can view the project at [Project View](https://flow-1.netlify.app/).
 ## Screenshot of project
 
 ### Screenshot 1
-![image](https://github.com/imoamo/landing-Page/assets/154124258/53c67099-2624-461d-9b2a-a8b3b1b4e44f)
+![Screenshot (116)](https://github.com/imoamo/landing-Page/assets/154124258/590b9d65-5aac-42e0-a258-2640fa9c5e2a)
 
 
 ### Screenshot 2
