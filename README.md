@@ -8,13 +8,18 @@ You can view the project at [Project View](https://flow-1.netlify.app/).
 ## Screenshot of project
 
 ### Screenshot 1
-![Screenshot (82)](https://github.com/imoamo/Landing-Page/assets/154124258/9d902cd2-1fb2-47ac-b57e-9c554d4e421c)
+![image](https://github.com/imoamo/landing-Page/assets/154124258/53c67099-2624-461d-9b2a-a8b3b1b4e44f)
+
 
 ### Screenshot 2
-![Screenshot (90)](https://github.com/imoamo/Landing-Page/assets/154124258/a3829704-756a-4ac2-9032-c0675a1d3fd3)
+![Screenshot (117)](https://github.com/imoamo/landing-Page/assets/154124258/d2e938be-296d-49c5-b6b0-6cac11cfa191)
+
 
 ### Screenshot 3
-![Screenshot (92)](https://github.com/imoamo/Landing-Page/assets/154124258/6ee49bc3-e41d-476f-8bbf-8a37948cb015)
+![Screenshot (119)](https://github.com/imoamo/landing-Page/assets/154124258/90f8bbf2-af96-459b-9aac-af4930957ce4)
+
+### Screenshot 4
+![Screenshot (120)](https://github.com/imoamo/landing-Page/assets/154124258/5362a864-ae2c-4047-9eb2-57e8866cad34)
 
 
 ## Getting Started
